@@ -1,6 +1,6 @@
 ### Hi 👋
 
-- ✋ Hi, My Name is Firdan Rahman
+- ✋ My Name is Firdan Rahman
 - 💡 I’m currently learning how to improve my machine learning algorithm and business deicison making, bit by bit
 - 🌠 Feel free to contact me if you found my profile interesting
 - 📧 How to reach me : firdanrahmanw@gmail.com
