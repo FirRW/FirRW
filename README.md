@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
 - ✋ Hi, My Name is Firdan Rahman
 - 💡 I’m currently learning how to improve my machine learning algorithm and business deicison making, bit by bit
